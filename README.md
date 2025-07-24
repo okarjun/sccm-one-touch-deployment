@@ -104,8 +104,6 @@ To eliminate manual setup by automating:
 
 Sr. Technical Specialist — SCCM | Infra | Automation  
 
-\[LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
-
 
 
 
